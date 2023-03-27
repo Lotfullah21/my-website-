@@ -1,0 +1,25 @@
+h1{
+    color:gray
+}
+
+#onlythis{
+    color: blue;
+}
+
+a:hover{
+    color: rgb(24, 17, 17);
+}
+
+p { 
+    color: hsl(0, 48%, 40%);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    text-transform: capitalize;
+    text-decoration: underline red solid px;
+  }
+
+
+/* a is added to specify the transparency of the color */
+h2 { 
+    color: rgba(255, 0, 0, 128); 
+  }
